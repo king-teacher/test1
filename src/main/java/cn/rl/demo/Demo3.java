@@ -8,7 +8,8 @@
 package cn.rl.demo;
 
 public class Demo3 {
-	public void printStr() {
-		System.out.println("hello");
+
+	public void printStr(String str) {
+		System.out.println(str);
 	}
 }
